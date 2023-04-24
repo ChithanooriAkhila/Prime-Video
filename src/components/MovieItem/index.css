@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.popup-content {
+  background-color: white;
+}
+
+.react-player {
+  height: 300px;
+  width: 300px;
+}
